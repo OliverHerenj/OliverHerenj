@@ -1,15 +1,15 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tauhidalamx&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=dracula" width="47%" height="160px" style="margin-top:20px"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=OliverHerenj&show_icons=true&custom_title=GitHub Stats&count_private=true&theme=dracula" width="47%" height="160px" style="margin-top:20px"/>
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=tauhidalamx&theme=dracula&column=4&margin-w=10&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)" width="47%" height="160px" style="margin-top:20px"/>
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=OliverHerenj&theme=dracula&column=4&margin-w=10&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)" width="47%" height="160px" style="margin-top:20px"/>
 
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tauhidalamx&hide_border=true&theme=radical" width="47%" height="160px" style="margin-top:40px"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=OliverHerenj&hide_border=true&theme=radical" width="47%" height="160px" style="margin-top:40px"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverHerenj&layout=compact&theme=dracula" width="47%" height="160px" style="margin-top:40px"/>
-<img src="https://activity-graph.herokuapp.com/graph?username=tauhidalamx&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" style="margin-top:40px"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=OliverHerenj&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" style="margin-top:40px"/>
 
 ---
 ## Languages:    
