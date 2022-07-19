@@ -8,7 +8,7 @@
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tauhidalamx&hide_border=true&theme=radical" width="47%" height="160px" style="margin-top:40px"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauhidalamx&layout=compact&theme=dracula" width="47%" height="160px" style="margin-top:40px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverHerenj&layout=compact&theme=dracula" width="47%" height="160px" style="margin-top:40px"/>
 <img src="https://activity-graph.herokuapp.com/graph?username=tauhidalamx&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" style="margin-top:40px"/>
 
 ---
@@ -57,7 +57,7 @@
 <br/>
 
 [linkedin]:https://www.linkedin.com/in/tauhid-alam-1141b1113/
-[github]:https://github.com/tawhidalamx/
+[github]:https://github.com/OliverHerenj/
 [instagram]:https://www.instagram.com/tauhid_o7/
 [facebook]:https://www.facebook.com/tawhidhussein
 
